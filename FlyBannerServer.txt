@@ -14,6 +14,11 @@
       "bannerName": "Tomb Raide",
       "bannerId": "3",
       "bannerUrl": "https://drive.google.com/file/d/1bdrMMlGtgxwCRNVar67gb3kvmf1yLIgz/view?usp=share_link"
+    },
+    {
+      "bannerName": "Big Banner",
+      "bannerId": "3",
+      "bannerUrl": "https://drive.google.com/file/d/1bdrMMlGtgxwCRNVar67gb3kvmf1yLIgz/view?usp=share_link"
     }
   ]
 }
