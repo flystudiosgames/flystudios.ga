@@ -2,12 +2,12 @@
   "player": [
     {
       "bannerName": "Call Of Duty",
-      "bannerId": "1",
+      "bannerId": "1sdcsdc",
       "bannerUrl": "https://drive.google.com/file/d/13zPub6yyykL893Pak4NjlqwTrBFFqCUV/view?usp=share_link"
     },
     {
       "bannerName": "Far Cry 4",
-      "bannerId": "2",
+      "bannerId": "2dcccccd",
       "bannerUrl": "https://drive.google.com/file/d/1zy9tmgL8APv2zsicu38cs_AD8WsjIIT4/view?usp=share_link"
     },
     {
