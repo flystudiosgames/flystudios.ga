@@ -2,23 +2,23 @@
   "player": [
     {
       "bannerName": "Call Of Duty",
-      "bannerId": "1sdcsdc",
+      "bannerId": "https://www.callofduty.com/",
       "bannerUrl": "https://drive.google.com/file/d/13zPub6yyykL893Pak4NjlqwTrBFFqCUV/view?usp=share_link"
     },
     {
       "bannerName": "Far Cry 4",
-      "bannerId": "2dcccccd",
+      "bannerId": "https://www.ubisoft.com/ru-ru/game/far-cry/far-cry-3",
       "bannerUrl": "https://drive.google.com/file/d/1zy9tmgL8APv2zsicu38cs_AD8WsjIIT4/view?usp=share_link"
     },
     {
       "bannerName": "Tomb Raide",
-      "bannerId": "3",
+      "bannerId": "https://hyperpc.ru/company",
       "bannerUrl": "https://drive.google.com/file/d/1bdrMMlGtgxwCRNVar67gb3kvmf1yLIgz/view?usp=share_link"
     },
     {
       "bannerName": "Big Banner",
-      "bannerId": "3",
-      "bannerUrl": "https://drive.google.com/file/d/1bdrMMlGtgxwCRNVar67gb3kvmf1yLIgz/view?usp=share_link"
+      "bannerId": "https://www.youtube.com/watch?v=e05vLnSkiR0&list=RDe05vLnSkiR0&start_radio=1&ab_channel=Mareshow",
+      "bannerUrl": "https://drive.google.com/file/d/1224QpiY4qtQrwGv1RifwpcH6hhxD5BR8/view?usp=share_link"
     }
   ]
 }
