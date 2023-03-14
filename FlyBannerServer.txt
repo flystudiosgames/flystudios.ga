@@ -1,7 +1,7 @@
 {
   "player": [
     {
-      "bannerName": "Call Of Duty",
+      "bannerName": "Big Banner,
       "bannerId": "https://drive.google.com/file/d/13zPub6yyykL893Pak4NjlqwTrBFFqCUV/view?usp=share_link",
       "bannerUrl": "https://www.callofduty.com/"
     },
