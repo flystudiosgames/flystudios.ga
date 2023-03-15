@@ -12,7 +12,7 @@
     },
     {
       "bannerName": "Tomb Raide : GitHub",
-      "bannerId": "https://drive.google.com/file/d/1224QpiY4qtQrwGv1RifwpcH6hhxD5BR8/view?usp=share_link",
+      "bannerId": "https://drive.google.com/file/d/1213JUjC3Tzpgd3-MHfo1DZpWKuaAGj2I/view?usp=share_link",
       "bannerUrl": "https://hyperpc.ru/company"
     },
     {
