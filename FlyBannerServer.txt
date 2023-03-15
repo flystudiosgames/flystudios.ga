@@ -11,7 +11,7 @@
       "bannerUrl": "https://www.ubisoft.com/ru-ru/game/far-cry/far-cry-3"
     },
     {
-      "bannerName": "Tomb Raide : GitHub",
+      "bannerName": "Tomb Raide : GitHub ayw",
       "bannerId": "https://drive.google.com/file/d/1213JUjC3Tzpgd3-MHfo1DZpWKuaAGj2I/view?usp=share_link",
       "bannerUrl": "https://hyperpc.ru/company"
     },
